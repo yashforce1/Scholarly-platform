@@ -18,7 +18,7 @@ cp .env.example .env
 npm run dev
 ```
 
-[Open http://localhost:5173](https://nexprep-quiz.vercel.app/)
+https://nexprep-quiz.vercel.app/
 
 ---
 
